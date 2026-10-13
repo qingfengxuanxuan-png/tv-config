@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "key": "影探4K",
+      "name": "影探 • 4K",
+      "type": 3,
+      "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/jieluojun/tvbox/refs/heads/master/py/影探4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "parses": []
+}
