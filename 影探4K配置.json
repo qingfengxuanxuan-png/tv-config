@@ -8,6 +8,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "Kishuto",
+      "name": "Kishuto·聚合",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/qingfengxuanxuan-png/tv-config/main/Kishuto.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "河豚",
+      "name": "河豚",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/qingfengxuanxuan-png/tv-config/main/%E6%B2%B3%E8%B1%9A.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": []
