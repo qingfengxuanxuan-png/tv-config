@@ -1,14 +1,14 @@
 {
-  "站点""sites":   
+  "sites": [
     {
-"key"："影视4K"，"key"："影视4K"，
-"名称"："影像·4K"，"名称"："影探·4K"，
-"类型"：3，"type": 3,
-"api"："https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/%E5%BD%B1%E6%8E%A24K.py",
-"可搜索"：1，"searchable": 1,
-"快速搜索"：1，"quickSearch": 1,
-“可过滤”：1"可过滤": 1
+      "key": "影探",
+      "name": "影探·4K",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/lqxcn/panghu/main/py/%E5%BD%B1%E6%8E%A24K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
-“解析”：[]"分析": []
+  "parses": []
 }
