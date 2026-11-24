@@ -1,5 +1,25 @@
 {
   "parses": [],
+  "lives": [
+    {
+      "name": "港台精选",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/qingfengxuanxuan-png/tv-config/main/hktw-live.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "香港完整列表",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/hk.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "台湾完整列表",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
+      "playerType": 1
+    }
+  ],
   "sites": [
     {
       "api": "https://raw.githubusercontent.com/qingfengxuanxuan-png/tv-config/main/%E5%BD%B1%E6%8E%A24K.py",

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="港台精选",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="港台精选",香港电台31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="港台精选",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港台精选",HBO台湾
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 group-title="港台精选",Cinemax台湾
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 group-title="港台精选",AXN台湾
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 group-title="港台精选",Discovery台湾
+http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 group-title="港台精选",台湾原住民族电视台
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
