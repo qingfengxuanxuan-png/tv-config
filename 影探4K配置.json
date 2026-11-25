@@ -8,6 +8,12 @@
       "playerType": 1
     },
     {
+      "name": "综合大列表",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt",
+      "playerType": 1
+    },
+    {
       "name": "香港完整列表",
       "type": 0,
       "url": "https://iptv-org.github.io/iptv/countries/hk.m3u",
